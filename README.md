@@ -10,7 +10,7 @@ This project explores and analyzes a dataset containing Netflix titles to uncove
 
 ## 📁 Dataset
 
-The dataset used is publicly available on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).  
+The dataset used is publicly available on [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).  
 It contains information about movies and TV shows available on Netflix, including:
 
 - Title  
@@ -51,10 +51,7 @@ Key steps performed:
 ## 📦 Tech Stack
 
 - Python (Pandas, NumPy)
-- Data Visualization: Matplotlib, Seaborn, Plotly
-- Jupyter Notebooks
-- [Optional] Streamlit/Gradio for dashboards
-
+  
 ---
 
 ## 🚀 Getting Started
